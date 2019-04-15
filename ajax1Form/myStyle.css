@@ -1,0 +1,18 @@
+body{
+  background-color: #6689c1;
+  text-align: center;
+}
+
+img{
+  width: 20%;
+}
+
+fieldset{
+  border-color: #9aedc2;
+}
+
+
+input{
+  background-color: #77c49c;
+  border-style: ridge;
+}
